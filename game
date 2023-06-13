@@ -2,12 +2,12 @@
       
     {
    
-    "title_game": "Muscle Race",
-    "desc_game": "Muscle Race",
-    "logo_game": "https://avatars.mds.yandex.net/get-games/2977039/2a0000018856a383f678e86be9c9f6b1bee7/pjpg526x314",
-    "image_background_game": "https://avatars.mds.yandex.net/get-games/2977039/2a0000018856a383f678e86be9c9f6b1bee7/pjpg526x314",
-    "url_game": "https://yandex.com/games/app/232562",
-    "type_ad":"off"
+    "title_game": "THE DANDY",
+    "desc_game": "THE DANDY",
+    "logo_game": "https://freakxgames.com/static/media/Feed%20Bobo.2d245a8e7214399e18ee.png",
+    "image_background_game": "https://freakxgames.com/static/media/The%20Dandy.6e138dee4a3887d3b798.png",
+    "url_game": "https://api.gameskite.com/games/the-dandy/index.html?id=portal&adChannelId=1309076961&adChildId=null&isAFP=false&lang=0&lang=0",
+	"type_ad":"on"
   
 
    
@@ -16,37 +16,96 @@
 
  {
    
-    "title_game": "Human Vehicle",
-    "desc_game": "Human Vehicle",
-    "logo_game": "https://avatars.mds.yandex.net/get-games/1890793/2a000001887ae54730c5ad3d0568dced9129/pjpg526x314",
-    "image_background_game": "https://avatars.mds.yandex.net/get-games/1890793/2a000001887ae54730c5ad3d0568dced9129/pjpg526x314",
-    "url_game": "https://yandex.com/games/app/233863,
-    "type_ad":"off"
-   
-    
- },
- 
- 
-  {
-   
-    "title_game": "Merge Squad: 2048",
-    "desc_game": "Merge Squad: 2048",
-    "logo_game": "https://avatars.mds.yandex.net/get-games/2977039/2a00000188563783b7b05ae2b83614e59547/pjpg526x314",
-    "image_background_game": "https://avatars.mds.yandex.net/get-games/2977039/2a00000188563783b7b05ae2b83614e59547/pjpg526x314",
-    "url_game": "https://yandex.com/games/app/232557",
-    "type_ad":"off"
+    "title_game": "RAM THE YODDHA",
+    "desc_game": "RAM THE YODDHA",
+    "logo_game": "https://freakxgames.com/static/media/Feed%20Bobo.2d245a8e7214399e18ee.png",
+    "image_background_game": "https://freakxgames.com/static/media/ram%20the%20yoddha.038652d2b530c6774a43.png",
+    "url_game": "https://api.gameskite.com/games/ram-the-yoddha-online/index.html?id=portal&adChannelId=1309076961&adChildId=null&isAFP=false&lang=0&lang=0",
+	"type_ad":"off"
    
     
  },
  
   {
    
-    "title_game": "Stickman Broken Bones io",
-    "desc_game": "Stickman Broken Bones io",
-    "logo_game": "https://avatars.mds.yandex.net/get-games/1881371/2a0000018886a4dcfcc3762172e4dc505603/pjpg526x314",
-    "image_background_game": "https://avatars.mds.yandex.net/get-games/1881371/2a0000018886a4dcfcc3762172e4dc505603/pjpg526x314",
-    "url_game": "https://yandex.com/games/app/234137",
-    "type_ad":"on"
+    "title_game": "FRUIT CHEF",
+    "desc_game": "FRUIT CHEF",
+    "logo_game": "https://freakxgames.com/static/media/Feed%20Bobo.2d245a8e7214399e18ee.png",
+    "image_background_game": "https://freakxgames.com/static/media/fruit%20chef.c8c9827d74bbad6eb9a3.png",
+    "url_game": "https://api.gameskite.com/games/fruit-chef/index.html?id=portal&adChannelId=1309076961&adChildId=null&isAFP=false&lang=0&lang=0",
+	"type_ad":"on"
+   
+    
+ },
+ 
+  {
+   
+    "title_game": "ROBO CLONE",
+    "desc_game": "ROBO CLONE",
+    "logo_game": "https://freakxgames.com/static/media/Feed%20Bobo.2d245a8e7214399e18ee.png",
+    "image_background_game": "https://freakxgames.com/static/media/robo%20clone.44571354be5b51248b03.png",
+    "url_game": "https://api.gameskite.com/games/robo-clone-online/index.html?id=portal&adChannelId=1309076961&adChildId=null&isAFP=false&lang=0&lang=0",
+	"type_ad":"off"
+   
+    
+ },
+ 
+  {
+   
+    "title_game": "CRICKET LIVE",
+    "desc_game": "CRICKET LIVE",
+    "logo_game": "https://freakxgames.com/static/media/Feed%20Bobo.2d245a8e7214399e18ee.png",
+    "image_background_game": "https://freakxgames.com/static/media/cricket%20live.1a509f7cc49bd6fcaafb.png",
+    "url_game": "https://api.gameskite.com/games/cricket-live/index.html?id=portal&adChannelId=1309076961&adChildId=null&isAFP=false&lang=0&lang=0",
+	"type_ad":"on"
+   
+    
+ },
+
+ {
+   
+    "title_game": "BIRDS VS BLOCKS",
+    "desc_game": "BIRDS VS BLOCKS",
+    "logo_game": "https://freakxgames.com/static/media/Feed%20Bobo.2d245a8e7214399e18ee.png",
+    "image_background_game": "https://freakxgames.com/static/media/birds%20vs%20blocks.d0e109ab9f83c8d15fbc.png",
+    "url_game": "https://api.gameskite.com/games/birds-vs-blocks-online/index.html?id=portal&adChannelId=1309076961&adChildId=null&isAFP=false&lang=0&lang=0",
+	"type_ad":"off"
+   
+    
+ },
+ 
+  {
+   
+    "title_game": "AQUA BLOCKS",
+    "desc_game": "AQUA BLOCKS",
+    "logo_game": "https://freakxgames.com/static/media/Feed%20Bobo.2d245a8e7214399e18ee.png",
+    "image_background_game": "https://freakxgames.com/static/media/aqua%20blocks.46f73fa55ba1ff23123a.png",
+    "url_game": "https://api.gameskite.com/games/aqua-blocks-online/index.html?id=portal&adChannelId=1309076961&adChildId=null&isAFP=false&lang=0&lang=0",
+	"type_ad":"on"
+   
+    
+ },
+ 
+  {
+   
+    "title_game": "DROID O",
+    "desc_game": "DROID O",
+    "logo_game": "https://freakxgames.com/static/media/Feed%20Bobo.2d245a8e7214399e18ee.png",
+    "image_background_game": "https://freakxgames.com/static/media/droid%20o.37c9df9c381ec07a8422.png",
+    "url_game": "https://api.gameskite.com/games/droid-o-online/index.html?id=portal&adChannelId=1309076961&adChildId=null&isAFP=false&lang=0&lang=0",
+	"type_ad":"off"
+   
+    
+ },
+ 
+   {
+   
+    "title_game": "DROID O",
+    "desc_game": "DROID O",
+    "logo_game": "https://freakxgames.com/static/media/Feed%20Bobo.2d245a8e7214399e18ee.png",
+    "image_background_game": "https://freakxgames.com/static/media/droid%20o.37c9df9c381ec07a8422.png",
+    "url_game": "https://games.cdn.famobi.com/html5games/c/cannon-balls-3d/v190/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=3ffa11c2-61da-4974-892b-473582253371&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=753&original_ref=",
+	"type_ad":"on"
    
     
  }
