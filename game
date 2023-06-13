@@ -49,6 +49,44 @@
     "type_ad":"on"
    
     
- }
+ },
+
+   {
+   
+    "title_game": "Muscle Race 3D",
+    "desc_game": "Muscle Race 3D",
+    "logo_game": "https://img.gamedistribution.com/657ceeb187c54226b1df4ff63e7fda02-512x512.jpeg",
+    "image_background_game": "https://img.gamedistribution.com/657ceeb187c54226b1df4ff63e7fda02-512x512.jpeg",
+    "url_game": "https://html5.gamedistribution.com/657ceeb187c54226b1df4ff63e7fda02/",
+    "type_ad":"on"
+   
+    
+ },
+   
+    {
+   
+    "title_game": "Skibidi Toilets",
+    "desc_game": "Skibidi Toilets",
+    "logo_game": "https://avatars.mds.yandex.net/get-games/2977039/2a00000188a0742e8cc53be9731062f173c2/pjpg526x314",
+    "image_background_game": "https://avatars.mds.yandex.net/get-games/2977039/2a00000188a0742e8cc53be9731062f173c2/pjpg526x314",
+    "url_game": "https://yandex.com/games/app/235178",
+    "type_ad":"on"
+   
+    
+ },
+
+    {
+   
+    "title_game": "TALLMAN RUN",
+    "desc_game": "TALLMAN RUN",
+    "logo_game": "https://img.gamedistribution.com/7980c23fbbae4af6851e01052fce3cce-512x512.jpeg",
+    "image_background_game": "https://img.gamedistribution.com/7980c23fbbae4af6851e01052fce3cce-512x512.jpeg",
+    "url_game": "https://html5.gamedistribution.com/7980c23fbbae4af6851e01052fce3cce/",
+    "type_ad":"on"
+   
+    
+ } 
+
+
 
 ]
